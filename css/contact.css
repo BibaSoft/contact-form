@@ -1,1 +1,15 @@
+/*form style */
+form{
+                            max-width:450px;
+                            margin:20px auto;
+                         }
+form input ,form textarea { 
+                              margin-bottom:5px;
+                          }
+form textarea{
+                 height:180px !important ;
+              }
+body{
+  background:no-repeat linear-gradient(35deg,#ccffff,#ffcccc);
 
+}
